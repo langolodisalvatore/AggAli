@@ -2,14 +2,14 @@
 <AggAliConfig xmlns="https://langolodisalvatore.jimdofree.com/ali/salvoschema-v2">
   <Elemento>
     <nomeparametro>Configurazione.SalvatorePalomba.Ali.AggAli.UltimaVersioneDisponibile</nomeparametro>
-    <imposta>26.2</imposta>
+    <imposta>26.1</imposta>
   </Elemento>
   <Elemento>
     <nomeparametro>Configurazione.SalvatorePalomba.Ali.AggAli.IndirizzoScaricamento</nomeparametro>
-    <imposta>https://raw.githubusercontent.com/langolodisalvatore/AggAli/main/aggali.xml</imposta>
+    <imposta></imposta>
   </Elemento>
   <Elemento>
     <nomeparametro>Configurazione.SalvatorePalomba.Ali.AggAli.DimensioneTotaleAggiornamento</nomeparametro>
-    <imposta>242242215521</imposta>
+    <imposta></imposta>
   </Elemento>
 </AggAliConfig>
